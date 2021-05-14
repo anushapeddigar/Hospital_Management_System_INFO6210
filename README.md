@@ -1,4 +1,4 @@
-# Hospital_Management_System_INFO6210
+# Hospital-Management-System-INFO6210
 
 This project was done as part of course - Data Management and Database Design - INFO6210
 
